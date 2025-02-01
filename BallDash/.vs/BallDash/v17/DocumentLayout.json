@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\lucia\\OneDrive\\BallDash\\BallDash\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71570D46-AB0E-4DE5-BB57-73B98C986E11}|BallDash.vcxproj|C:\\Users\\lucia\\OneDrive\\BallDash\\BallDash\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{71570D46-AB0E-4DE5-BB57-73B98C986E11}|BallDash.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{71570D46-AB0E-4DE5-BB57-73B98C986E11}|BallDash.vcxproj|C:\\Users\\lucia\\OneDrive\\BallDash\\BallDash\\Personaje.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71570D46-AB0E-4DE5-BB57-73B98C986E11}|BallDash.vcxproj|solutionrelative:Personaje.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{71570D46-AB0E-4DE5-BB57-73B98C986E11}|BallDash.vcxproj|C:\\Users\\lucia\\OneDrive\\BallDash\\BallDash\\Personaje.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{71570D46-AB0E-4DE5-BB57-73B98C986E11}|BallDash.vcxproj|solutionrelative:Personaje.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71570D46-AB0E-4DE5-BB57-73B98C986E11}|BallDash.vcxproj|C:\\Users\\lucia\\OneDrive\\BallDash\\BallDash\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{71570D46-AB0E-4DE5-BB57-73B98C986E11}|BallDash.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
@@ -28,19 +32,38 @@
               "RelativeDocumentMoniker": "Personaje.h",
               "ToolTip": "C:\\Users\\lucia\\OneDrive\\BallDash\\BallDash\\Personaje.h",
               "RelativeToolTip": "Personaje.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-01-23T01:43:05.518Z"
+              "WhenOpened": "2025-01-31T01:17:08.444Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Personaje.cpp",
+              "DocumentMoniker": "C:\\Users\\lucia\\OneDrive\\BallDash\\BallDash\\Personaje.cpp",
+              "RelativeDocumentMoniker": "Personaje.cpp",
+              "ToolTip": "C:\\Users\\lucia\\OneDrive\\BallDash\\BallDash\\Personaje.cpp*",
+              "RelativeToolTip": "Personaje.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-31T16:26:02.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Main.cpp",
               "DocumentMoniker": "C:\\Users\\lucia\\OneDrive\\BallDash\\BallDash\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
               "ToolTip": "C:\\Users\\lucia\\OneDrive\\BallDash\\BallDash\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
-              "ViewState": "AgIAACUAAAAAAAAAAAAcwDcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-01-19T23:29:56.733Z",
               "EditorCaption": ""
