@@ -134,11 +134,17 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="Collisionable.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="Moneda.cpp" />
     <ClCompile Include="Personaje.cpp" />
+    <ClCompile Include="PowerUp.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="Collisionable.h" />
+    <ClInclude Include="Moneda.h" />
     <ClInclude Include="Personaje.h" />
+    <ClInclude Include="PowerUp.h" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="BallDashGameImagen.PNG" />
